@@ -35,3 +35,24 @@
 12:34:27.601 [main] INFO  org.example.testng.FormTest - Expected Name: Pantea Leon
 12:34:32.612 [main] INFO  org.example.testng.FormTest - Finish Test
 12:34:32.615 [main] INFO  org.example.testng.FormTest - Start After Method
+13:45:50.775 [main] INFO  org.example.testng.FormTest - Start Before Method
+13:46:02.241 [main] INFO  org.example.testng.FormTest - Start Before Method
+13:46:04.469 [main] INFO  org.example.testng.FormTest - Start Test
+13:46:11.003 [main] INFO  org.example.testng.FormTest - First Name set
+13:46:14.106 [main] INFO  org.example.testng.FormTest - Selecting State: NCR
+13:46:18.329 [main] INFO  org.example.testng.FormTest - Selecting City: Delhi
+13:46:31.495 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 10 seconds
+13:46:31.538 [main] INFO  org.example.testng.FormTest - Actual Name from table: Pantea Leon
+13:46:31.538 [main] INFO  org.example.testng.FormTest - Expected Name: Pantea Leon
+13:46:36.564 [main] INFO  org.example.testng.FormTest - Finish Test
+13:46:36.564 [main] INFO  org.example.testng.FormTest - Start After Method
+13:48:07.133 [main] INFO  org.example.testng.FormTest - Start Before Method
+13:48:08.508 [main] INFO  org.example.testng.FormTest - Start Test
+13:48:15.061 [main] INFO  org.example.testng.FormTest - First Name set
+13:48:17.829 [main] INFO  org.example.testng.FormTest - Selecting State: NCR
+13:48:22.043 [main] INFO  org.example.testng.FormTest - Selecting City: Delhi
+13:48:35.197 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 10 seconds
+13:48:35.235 [main] INFO  org.example.testng.FormTest - Actual Name from table: Pantea Leon
+13:48:35.235 [main] INFO  org.example.testng.FormTest - Expected Name: Pantea Leon
+13:48:40.249 [main] INFO  org.example.testng.FormTest - Finish Test
+13:48:40.249 [main] INFO  org.example.testng.FormTest - Start After Method
